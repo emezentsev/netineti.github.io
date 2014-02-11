@@ -11,7 +11,7 @@ pygments: true
 title : NETINETI.RU
 tagline: Site Tagline
 author :
-  name : Евгений Л. Мезенцев
+  name : Evgeniy L. Mezentsev
   email : netinetiru@mail.ru
   github : netineti
   twitter : netinetiru
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : netinetiru
     livefyre :
       site_id : 123
     intensedebate :
