@@ -2,7 +2,7 @@
 layout: post
 title: "Rupert Spira"
 description: описание
-category: "Руперт Спайра" 
+category: a/rs 
 tags: ["Руперт Спайра"]
 ---
 {% include JB/setup %}
